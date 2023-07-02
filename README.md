@@ -1,4 +1,4 @@
-# Sending-Mail-using-SMTP-with-C-
+# Sending-Mail-using-SMTP-with-C#
 This is a project i.e. created on C# language.
 In this project user can perform CRUD operation. With CRUD operation, it means that user can create, read, update and delete the information.
 This project is mage only on C# language.
