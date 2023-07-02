@@ -1,0 +1,45 @@
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.exe
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.deps.json
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.runtimeconfig.json
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.dll
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.pdb
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.csproj.AssemblyReference.cache
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.AssemblyInfoInputs.cache
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.AssemblyInfo.cs
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.csproj.CoreCompileInputs.cache
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.dll
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\refint\AbhijeetCSharpTest.dll
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.pdb
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.genruntimeconfig.cache
+D:\C Sharp Test\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\ref\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.exe
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.deps.json
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.runtimeconfig.json
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.pdb
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.csproj.AssemblyReference.cache
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.AssemblyInfoInputs.cache
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.AssemblyInfo.cs
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.csproj.CoreCompileInputs.cache
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\refint\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.pdb
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.genruntimeconfig.cache
+D:\C#\AbhijeetCSharpTest\AbhijeetCSharpTest\obj\Debug\net7.0\ref\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.exe
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.deps.json
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.runtimeconfig.json
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\bin\Debug\net7.0\AbhijeetCSharpTest.pdb
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.csproj.AssemblyReference.cache
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.AssemblyInfoInputs.cache
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.AssemblyInfo.cs
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.csproj.CoreCompileInputs.cache
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\refint\AbhijeetCSharpTest.dll
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.pdb
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\AbhijeetCSharpTest.genruntimeconfig.cache
+D:\C#\AbhijeetCSharpTest_T\AbhijeetCSharpTest\obj\Debug\net7.0\ref\AbhijeetCSharpTest.dll
